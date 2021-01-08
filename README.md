@@ -5,7 +5,6 @@ Programming is my hobby, I do primarily Java/Minecraft and Web.
 My proudest creations and contributions are:
 - [Knossos](https://github.com/modrinth/knossos) - A large custom Nuxt.js application, serving as a frontend for Modrinth mod hosting
 - [Vivatech](https://github.com/falseresync/vivatech) - A contentful Minecraft/Fabric mod, featuring constructed life of yours - automata
-- [Packbrew](https://packbrew.falseresync.ru/) - A universal modpack format ought to ease the struggle of having multiple launcher and multiple hostings
 
 I am always happy to outside contributors and to derivatives of my work.
 
